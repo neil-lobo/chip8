@@ -1,5 +1,3 @@
-all: build run
-
 b: build
 
 build: bin/out.exe
